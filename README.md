@@ -4,6 +4,9 @@ Interactive tool that helps aspiring footballers identify top academies by analy
 My initial Pitch
 https://docs.google.com/presentation/d/1kW6fJe4F3CduVDB96fMdaRJHZpJK4xlhaoBWz-MX658/edit?slide=id.p#slide=id.p
 
+Chosen Database
+https://www.kaggle.com/datasets/davidcariboo/player-scores/data?select=appearances.csv
+
 The Journey to Completion
 
 
