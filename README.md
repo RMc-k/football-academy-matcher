@@ -57,7 +57,7 @@ Day 5 marked our project’s demo day — an opportunity to share our progress a
 
 During the demo, I outlined our roadmap for the final week, highlighting both our technical goals and our vision for refining the dashboard’s user experience. 
 
-In parallel, I began experimenting with predictive modelling using linear regression. The aim was to estimate the maximum potential market value of academy players based on available performance and development metrics. In addition to this, I used the same approach to assess the average time a player spends at a club before being promoted to the first team or transferred out — a crucial data point for our intended audience. 
+In parallel, I began experimenting with predictive modelling using linear regression. The aim was to estimate the maximum potential market value of academy players based on available performance and development metrics - a crucial data point for our intended audience. 
 
 Initial results have been highly promising and align well with our broader story: providing actionable, data-driven insights into player development pathways. Once we finalise the visual placement and context, these models will be integrated into our dashboard in the coming week to enhance its impact and interactivity. 
 
