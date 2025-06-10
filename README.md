@@ -5,7 +5,7 @@ My initial Pitch
 https://docs.google.com/presentation/d/1kW6fJe4F3CduVDB96fMdaRJHZpJK4xlhaoBWz-MX658/edit?slide=id.p#slide=id.p
 
 Chosen Database
-https://www.kaggle.com/datasets/davidcariboo/player-scores/data?select=appearances.csv
+https://www.kaggle.com/datasets/davidcariboo/player-scores/data
 
 The Journey to Completion
 
